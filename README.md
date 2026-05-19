@@ -50,14 +50,6 @@ Pitch decki, prezentacje eventowe, decki dla serwerów i projektów gamingowych.
 </tr>
 </table>
 
----
-
-## 〔 Nasze repozytoria 〕
-
-| Projekt | Opis | Status |
-|---|---|---|
-| `icefall-bot` | Bot Discord Icefall Studio — security, economy, tickets | 🔒 Private |
-| `magiccity-rp` | Strona serwera Magic City RP (ERLC) | 🔒 Private |
 
 ---
 
