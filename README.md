@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Icefall-Creative/.github/main/profile/logo.png" width="120" alt="Icefall Creative Logo"/>
 
+# ICEFALL CREATIVE
+
 **Projektujemy. Budujemy. Dostarczamy.**
 
 *Grafika • Strony internetowe • Boty Discord • Decki na zamówienie*
@@ -15,11 +17,15 @@
 
 ---
 
+## 〔 Kim jesteśmy 〕
+
 **Icefall Creative** to agencja kreatywna działająca jako ramię komercyjne **Icefall Studio** — tworzymy projekty na zamówienie, które finansują rozwój większych inicjatyw studia.
 
 Zajmujemy się wszystkim co cyfrowe: od identyfikacji wizualnej, przez strony internetowe, po boty Discord i niestandardowe decki prezentacyjne. Każdy projekt traktujemy indywidualnie — bez szablonów, bez skrótów.
 
 ---
+
+## 〔 Co robimy 〕
 
 <table>
 <tr>
@@ -44,6 +50,14 @@ Pitch decki, prezentacje eventowe, decki dla serwerów i projektów gamingowych.
 </tr>
 </table>
 
+---
+
+## 〔 Nasze repozytoria 〕
+
+| Projekt | Opis | Status |
+|---|---|---|
+| `icefall-bot` | Bot Discord Icefall Studio — security, economy, tickets | 🔒 Private |
+| `magiccity-rp` | Strona serwera Magic City RP (ERLC) | 🔒 Private |
 
 ---
 
