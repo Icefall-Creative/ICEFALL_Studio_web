@@ -15,15 +15,11 @@
 
 ---
 
-## 〔 Kim jesteśmy 〕
-
 **Icefall Creative** to agencja kreatywna działająca jako ramię komercyjne **Icefall Studio** — tworzymy projekty na zamówienie, które finansują rozwój większych inicjatyw studia.
 
 Zajmujemy się wszystkim co cyfrowe: od identyfikacji wizualnej, przez strony internetowe, po boty Discord i niestandardowe decki prezentacyjne. Każdy projekt traktujemy indywidualnie — bez szablonów, bez skrótów.
 
 ---
-
-## 〔 Co robimy 〕
 
 <table>
 <tr>
